@@ -24,7 +24,7 @@ Just join the server, get a code, open the app, and connect.
 
 ## 📖 About
 
-**VoiceChat BE** is a third-party proximity voice chat system for **Minecraft Bedrock Edition** servers, built specifically for **AstraviaSMP**. Unlike Discord, this voice chat is tied directly into gameplay:
+**VoiceChat BE** is a third-party proximity voice chat system for **Minecraft Bedrock Edition** servers, built specifically for **Minecraft Bedrock Community**. Unlike Discord, this voice chat is tied directly into gameplay:
 
 - Voice rooms follow your in-game location automatically (island, base, dungeon, etc. — depending on server config).
 - Join using a token generated directly in-game — no manual invites or links needed.
@@ -59,7 +59,7 @@ The system has 3 parts:
 1. Download the `.mcaddon` file from [Releases](../../releases/latest).
 2. Open the file (it opens automatically in Minecraft) → wait for the import to finish.
 3. Open Minecraft → **Settings → Global Resources / Behavior Packs** → enable **VoiceChat BE Addon** for the world/server you want.
-4. Join the AstraviaSMP server as usual.
+4. Join the bedrock server as usual.
 
 ### 2. Install the VoiceChat BE App (Android)
 1. Download `voicechat-bedrock-v1.1.apk` from [Releases](../../releases/latest).
@@ -77,7 +77,7 @@ The system has 3 parts:
 
 ## 🎮 How to Use
 
-1. Join the AstraviaSMP server in Minecraft (the addon must be enabled).
+1. Join the bedrock server in Minecraft (the addon must be enabled).
 2. Run the in-game command / interaction to generate a **voice session token** (a unique, single-use code).
 3. Copy that token.
 4. Open the **VoiceChat BE** app on your phone → paste the token → **Join**.
@@ -116,6 +116,6 @@ MIT — free to use and modify, attribution appreciated.
 
 <div align="center">
 
-Built for **AstraviaSMP** 🌌
+Built for **Minecraft Bedrock Community** 🌌
 
 </div>

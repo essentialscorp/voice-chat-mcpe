@@ -24,7 +24,7 @@ Cukup join server, dapat kode, buka app, langsung connect.
 
 ## 📖 Tentang
 
-**VoiceChat BE** adalah sistem voice chat pihak ketiga untuk server **Minecraft Bedrock Edition**, dibuat khusus untuk **AstraviaSMP**. Beda dari Discord, voice chat ini terintegrasi langsung dengan gameplay:
+**VoiceChat BE** adalah sistem voice chat pihak ketiga untuk server **Minecraft Bedrock Edition**, dibuat khusus untuk **Minecraft Bedrock Community**. Beda dari Discord, voice chat ini terintegrasi langsung dengan gameplay:
 
 - Room voice otomatis mengikuti lokasi kamu di server (island, base, dungeon, dll — tergantung konfigurasi server).
 - Join lewat token yang di-generate langsung dari dalam game, tanpa perlu invite/link manual.
@@ -59,7 +59,7 @@ Sistem ini terdiri dari 3 bagian:
 1. Download file `.mcaddon` dari [Releases](../../releases/latest).
 2. Buka file tersebut (otomatis kebuka lewat Minecraft) → tunggu proses import selesai.
 3. Buka Minecraft → **Settings → Global Resources / Behavior Packs** → aktifkan **VoiceChat BE Addon** untuk world/server yang kamu mau.
-4. Masuk ke server AstraviaSMP seperti biasa.
+4. Masuk ke server Bedrock seperti biasa.
 
 ### 2. Install App VoiceChat BE (Android)
 1. Download `voicechat-bedrock-v1.1.apk` dari [Releases](../../releases/latest).
@@ -77,7 +77,7 @@ Sistem ini terdiri dari 3 bagian:
 
 ## 🎮 Cara Pakai
 
-1. Masuk ke server AstraviaSMP di Minecraft (addon harus sudah aktif).
+1. Masuk ke server Bedrock di Minecraft (addon harus sudah aktif).
 2. Jalankan command / interaksi in-game untuk generate **token sesi voice chat** (kode unik, sekali pakai).
 3. Salin token tersebut.
 4. Buka app **VoiceChat BE** di HP → tempel token → **Join**.
@@ -116,6 +116,6 @@ MIT — bebas dipakai & dimodifikasi, sertakan atribusi.
 
 <div align="center">
 
-Dibuat untuk **AstraviaSMP** 🌌
+Dibuat untuk **Minecraft Bedrock Community** 🌌
 
 </div>
