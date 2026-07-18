@@ -102,14 +102,6 @@ Wajar, karena app di luar Play Store. Tap **"Install anyway"** / **"More details
 
 ---
 
-## 🧱 Tech Stack
-
-- **Addon**: Minecraft Bedrock Scripting API (`@minecraft/server`)
-- **App**: Next.js + Capacitor (Android WebView + native foreground service untuk background call)
-- **Backend**: Go, PostgreSQL, WebRTC signaling via Socket.IO
-
----
-
 ## 📄 License
 
 MIT — bebas dipakai & dimodifikasi, sertakan atribusi.

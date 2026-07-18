@@ -102,14 +102,6 @@ This is expected since the app is outside the Play Store. Tap **"Install anyway"
 
 ---
 
-## 🧱 Tech Stack
-
-- **Addon**: Minecraft Bedrock Scripting API (`@minecraft/server`)
-- **App**: Next.js + Capacitor (Android WebView + native foreground service for background calls)
-- **Backend**: Go, PostgreSQL, WebRTC signaling via Socket.IO
-
----
-
 ## 📄 License
 
 MIT — free to use and modify, attribution appreciated.
